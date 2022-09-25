@@ -17,5 +17,5 @@ python3 worker3.py
 ### Run main
 
 ```
-python3 min.py
+python3 main.py
 ```
